@@ -1,4 +1,5 @@
 # React + Vite
+the style code isn't working so I am working on the login page design, it's made with Tailwind.css. Rest of the website works fine.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
